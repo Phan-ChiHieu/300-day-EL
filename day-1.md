@@ -2,6 +2,13 @@
 
 # This book is very entertaining
 
+```base
+
+This book is very entertaining
+ðɪs  bʊk  ɪz ˈvɛri ˌɛntəˈteɪnɪŋ
+
+```
+
     - Cuốn sách này rất thú vị
 
 ## Câu "This book is very entertaining" có cấu trúc như sau:
